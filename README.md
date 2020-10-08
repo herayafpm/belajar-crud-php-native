@@ -1,7 +1,7 @@
 <div>
 <p align="center">
-  <a href="https://codeigniter.com/">
-    <img src="https://codeigniter.com/assets/images/ci-logo-big.png" alt="Logo" width=72 height=72>
+  <a href="https://www.php.net/">
+    <img src="https://www.php.net/images/logos/php-logo.svg" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Belajar CRUD</h3>
